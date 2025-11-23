@@ -89,5 +89,5 @@ Full-stack application for managing employees and teams with authentication and 
 
 ## Live URLs
 
-- **Frontend**: [https://your-app.vercel.app](https://hrms-backend-uuhw.onrender.com/)
-- **Backend**: [https://your-app.onrender.com](https://frontend-44wvuvbc2-agrim-kumars-projects.vercel.app/login)
+- **Frontend**: [https://your-app.onrender.com](https://frontend-44wvuvbc2-agrim-kumars-projects.vercel.app/login)
+- **Backend**:  [https://your-app.vercel.app](https://hrms-backend-uuhw.onrender.com/)
